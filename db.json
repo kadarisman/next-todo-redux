@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "task": "Gym",
+      "status": "Progress",
+      "id": 1
+    },
+    {
+      "task": "Latihan",
+      "status": "Progress",
+      "id": 2
+    },
+    {
+      "task": "Belajar",
+      "status": "Todo",
+      "id": 3
+    }
+  ]
+}
