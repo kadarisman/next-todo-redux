@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 This is sample todo list project for using [Redux Toolkit](https://redux-toolkit.js.org/) for started project, and using json server api for testing
+
+this is javaScript version, if you want TypeScript version [visit this](https://github.com/kadarisman/next-todo-redux-typescript)
 
 ## Getting Started
 
